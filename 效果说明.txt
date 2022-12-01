@@ -1,0 +1,20 @@
+index.html
+
+图片轮播
+第55-90行    index.js
+
+倒计时
+第1-19行      index.js
+
+电梯导航
+第93-134行   index.js
+
+鼠标经过，图片抖动    jq
+
+
+
+放大镜    detail.js
+
+
+
+
